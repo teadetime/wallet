@@ -2,11 +2,12 @@
 #### Table of contents
 
 - [Intro](#Intro)
+    + [Who](#who)
 - [Research](#Intro)
 - [Materials](#Intro)
 - [Designing](#Designing)
 - [Building](#Building)
-- [Results and Thoughts](#Results)
+- [Results and Thoughts](#Results-and-thoughts)
 
 # Intro
 
