@@ -1,7 +1,7 @@
 # Designing and Building a Leather Wallet _with no experience!_
 #### Table of contents
 
-- [Intro](#heading-1)
+- [Intro](#Intro)
 
 # Intro
 
