@@ -2,6 +2,11 @@
 #### Table of contents
 
 - [Intro](#Intro)
+- [Research](#Intro)
+- [Materials](#Intro)
+- [Designing](#Designing)
+- [Building](#Building)
+- [Results and Thoughts](#Results)
 
 # Intro
 
